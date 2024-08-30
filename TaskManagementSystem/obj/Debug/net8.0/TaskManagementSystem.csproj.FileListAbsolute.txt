@@ -1,0 +1,14 @@
+/home/douglas/Desktop/managed_context/TaskManagementSystem/bin/Debug/net8.0/TaskManagementSystem
+/home/douglas/Desktop/managed_context/TaskManagementSystem/bin/Debug/net8.0/TaskManagementSystem.deps.json
+/home/douglas/Desktop/managed_context/TaskManagementSystem/bin/Debug/net8.0/TaskManagementSystem.runtimeconfig.json
+/home/douglas/Desktop/managed_context/TaskManagementSystem/bin/Debug/net8.0/TaskManagementSystem.dll
+/home/douglas/Desktop/managed_context/TaskManagementSystem/bin/Debug/net8.0/TaskManagementSystem.pdb
+/home/douglas/Desktop/managed_context/TaskManagementSystem/obj/Debug/net8.0/TaskManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/douglas/Desktop/managed_context/TaskManagementSystem/obj/Debug/net8.0/TaskManagementSystem.AssemblyInfoInputs.cache
+/home/douglas/Desktop/managed_context/TaskManagementSystem/obj/Debug/net8.0/TaskManagementSystem.AssemblyInfo.cs
+/home/douglas/Desktop/managed_context/TaskManagementSystem/obj/Debug/net8.0/TaskManagementSystem.csproj.CoreCompileInputs.cache
+/home/douglas/Desktop/managed_context/TaskManagementSystem/obj/Debug/net8.0/TaskManagementSystem.dll
+/home/douglas/Desktop/managed_context/TaskManagementSystem/obj/Debug/net8.0/refint/TaskManagementSystem.dll
+/home/douglas/Desktop/managed_context/TaskManagementSystem/obj/Debug/net8.0/TaskManagementSystem.pdb
+/home/douglas/Desktop/managed_context/TaskManagementSystem/obj/Debug/net8.0/TaskManagementSystem.genruntimeconfig.cache
+/home/douglas/Desktop/managed_context/TaskManagementSystem/obj/Debug/net8.0/ref/TaskManagementSystem.dll
